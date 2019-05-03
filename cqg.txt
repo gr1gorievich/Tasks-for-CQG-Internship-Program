@@ -1,0 +1,8 @@
+8:00 15:00 'University'
+12:00 13:00 'Going to CQG'
+13:00 18:00 'Working'
+18:00 19:00 'Going home'
+19:00 20:00 'Prepairing supper'
+19:30 20:00 'Call my girlfriend'
+20:00 22:00 'Having supper'
+20:00 22:00 'Watching film'
